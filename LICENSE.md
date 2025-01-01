@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #------------------------VTV------------------------#
-
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.117:10254
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8.5Mbps)
@@ -13,7 +12,7 @@ http://192.168.1.1:4022/rtp/232.84.2.32:10600
 http://192.168.1.1:4022/rtp/232.84.3.106:10600
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.33:10606
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Tho (HD 8.5Mbps)
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.119:10266
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.202:10996
@@ -49,7 +48,7 @@ http://192.168.1.1:4022/rtp/232.84.1.28:8142
 http://192.168.1.1:4022/rtp/232.84.1.40:8214
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://192.168.1.1:4022/rtp/232.84.1.41:8220
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Tho
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
 http://192.168.1.1:4022/rtp/232.84.1.42:8226
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 http://192.168.1.1:4022/rtp/232.84.2.201:10990
@@ -65,10 +64,8 @@ http://192.168.1.1:4022/rtp/232.84.3.67:11650
 #------------------------Thi?t Y?u------------------------#
 #EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 7Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.124:10822
-#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Qu?c H?i HD (HD 4Mbps)
-http://192.168.1.1:4022/rtp/232.84.1.234:10290
 #EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
-http://192.168.1.1:4022/rtp/232.84.2.181:10290
+http://192.168.1.1:4022/rtp/232.84.1.234:10290
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.127:10816
 #EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8.5Mbps)
