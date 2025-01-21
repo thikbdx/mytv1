@@ -60,8 +60,14 @@ http://192.168.1.1:4022/rtp/232.84.1.241:9420
 http://192.168.1.1:4022/rtp/232.84.3.85:11536
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 http://192.168.1.1:4022/rtp/232.84.3.67:11650
-
-#------------------------Thi?t Y?u------------------------#
+#---------------------------SCTV--------------------------#
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.22:11920
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.20:11932
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.15:11962
+#------------------------Thiiết yếu------------------------#
 #EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 7Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.124:10822
 #EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
