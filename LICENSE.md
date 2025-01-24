@@ -61,6 +61,60 @@ http://192.168.1.1:4022/rtp/232.84.3.85:11536
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 http://192.168.1.1:4022/rtp/232.84.3.67:11650
 #---------------------------SCTV--------------------------#
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.34:11848
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.33:11854
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV3.jpg", SCTV3 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.32:11860
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/SCTV6_logo.png/revision/latest?cb=20200409033954&path-prefix=vi",SCTV6
+#EXTVLCOPT:http-user-agent="dovietsy"
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8|Referer=http://sctvonline.vn/
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/SCTV4.jpg", SCTV4 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.31:11866
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/SCTV7.jpg", SCTV7 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.29:11878
+
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/SCTV8.jpg", SCTV8 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.28:11884
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/SCTV9.jpg", SCTV9 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.27:11890
+
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/SCTV11.jpg", SCTV11 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.26:11896
+
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/SCTV12.jpg", SCTV12 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.25:11902
+
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SCTV14.jpg", SCTV14 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.23:11914
+
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/SCTV16.jpg", SCTV16 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.21:11926
+
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/SCTV18.jpg", SCTV18 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.19:11938
+
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SCTV19.jpg", SCTV19 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.18:11944
+
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/SCTV20.jpg", SCTV20 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.17:11950
+
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/SCTV21.jpg", SCTV21 HD (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.16:11956
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp (MyTV)
+http://192.168.1.1:4022/rtp/232.84.3.14:11968
+
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD (MyTV)
 http://192.168.1.1:4022/rtp/232.84.3.22:11920
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SCTV17.jpg", SCTV17 HD (MyTV)
