@@ -122,19 +122,19 @@ http://192.168.1.1:4022/rtp/232.84.3.20:11932
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/SCTV22.jpg", SCTV22 HD (MyTV)
 http://192.168.1.1:4022/rtp/232.84.3.15:11962
 #------------------------Thiiết yếu------------------------#
-#EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 7Mbps)
+#EXTINF:0 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 7Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.124:10822
-#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
+#EXTINF:0 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.234:10290
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.127:10816
-#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8.5Mbps)
+#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.125:10434
-#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+#EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://192.168.1.1:4022/rtp/232.84.1.212:9246
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://192.168.1.1:4022/rtp/232.84.1.228:9342
-#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thi?t y?u" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
+#EXTINF:0 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS
 http://192.168.1.1:4022/rtp/232.84.1.52:8292
 #------------------------VTVcab------------------------#
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD (HD 8.5Mbps)
@@ -197,60 +197,6 @@ http://192.168.1.1:4022/rtp/232.84.1.143:8832
 http://192.168.1.1:4022/rtp/232.84.3.42:11800
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
 http://192.168.1.1:4022/rtp/232.84.3.43:11794
-#------------------------VTC------------------------#
-
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 7.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.2.173:10846
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD (HD 7Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.102:10846
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 6Mbps)
-http://192.168.1.1:4022/rtp/232.84.1.81:8460
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.2.149:10714
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.147:10714
-#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.136:10720
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6 HD (HD 8Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.58:11704
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.2.151:10726
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.120:10726
-#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.141:10732
-#EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.87:11530
-#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.216:11218
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 8.5Mbps)
-http://192.168.1.1:4022/rtp/232.84.3.98:11458
-#EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-http://192.168.1.1:4022/rtp/232.84.1.30:8154
-#EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
-http://192.168.1.1:4022/rtp/232.84.1.57:8322
-#EXTINF:0 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
-http://192.168.1.1:4022/rtp/232.84.1.60:8232
-#EXTINF:0 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
-http://192.168.1.1:4022/rtp/232.84.2.37:10630
-#EXTINF:0 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
-http://192.168.1.1:4022/rtp/232.84.2.38:10636
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
-http://192.168.1.1:4022/rtp/232.84.1.58:8328
-#EXTINF:0 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
-http://192.168.1.1:4022/rtp/232.84.1.213:9252
-#EXTINF:0 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
-http://192.168.1.1:4022/rtp/232.84.2.39:10642
-#EXTINF:0 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
-http://192.168.1.1:4022/rtp/232.84.1.59:8334
-#EXTINF:0 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
-http://192.168.1.1:4022/rtp/232.84.1.214:9258
-#EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
-http://192.168.1.1:4022/rtp/232.84.1.61:8340
-#EXTINF:0 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
-http://192.168.1.1:4022/rtp/232.84.1.216:9270
-#EXTINF:0 tvg-id="vtc16" group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
-http://192.168.1.1:4022/rtp/232.84.1.215:9264
 #EXTINF:0 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 http://192.168.1.1:4022/rtp/232.84.1.46:8256
 #------------------------HTV/HTVC------------------------#
@@ -296,112 +242,112 @@ http://192.168.1.1:4022/rtp/232.84.1.25:8124
 http://192.168.1.1:4022/rtp/232.84.1.21:8100
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
 http://192.168.1.1:4022/rtp/232.84.1.31:8160
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Th? Thao
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 http://192.168.1.1:4022/rtp/232.84.1.24:8118
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nh?c
+#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
 http://192.168.1.1:4022/rtp/232.84.1.126:8730
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du L?ch và Cu?c S?ng
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sônsg
 http://192.168.1.1:4022/rtp/232.84.1.221:9300
 #EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Ðình
 http://192.168.1.1:4022/rtp/232.84.1.170:8994
 #EXTINF:0 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
 http://192.168.1.1:4022/rtp/232.84.1.105:8604
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Ph? N?
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
 http://192.168.1.1:4022/rtp/232.84.1.127:8736
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thu?n Vi?t
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 http://192.168.1.1:4022/rtp/232.84.1.22:8106
 #EXTINF:0 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 http://192.168.1.1:4022/rtp/232.84.1.32:8166
 #------------------------Other------------------------#
 #------------------------Ð?a phuong (HD)------------------------#
-#EXTINF:0 tvg-id="yenbai" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 6Mbps)
+#EXTINF:0 tvg-id="yenbai" group-title="Địa Phương(HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.253:11440
-#EXTINF:0 tvg-id="hoabinh" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 6Mbps)
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.213:11200
-#EXTINF:0 tvg-id="thainguyen" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên (HD 6Mbps)
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 HD _ TH Thái Nguyên (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.146:10774
-#EXTINF:0 tvg-id="phutho" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Th? (HD 6Mbps)
+#EXTINF:0 tvg-id="phutho" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD _ TH Phú Thọ (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.148:10792
-#EXTINF:0 tvg-id="bacgiang" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH B?c Giang (HD 7.5Mbps)
+#EXTINF:0 tvg-id="bacgiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH B?c Giang (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.100:11452
-#EXTINF:0 tvg-id="caobang" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao B?ng (HD 6.5Mbps)
+#EXTINF:0 tvg-id="caobang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD _ TH Cao Bằng (HD 6.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.202:11134
-#EXTINF:0 tvg-id="backan" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH B?c K?n (HD 8Mbps)
+#EXTINF:0 tvg-id="backan" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn (HD 8Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.94:11488
-#EXTINF:0 tvg-id="langson" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH L?ng Son (HD 6Mbps)
+#EXTINF:0 tvg-id="langson" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Son (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.203:11140
-#EXTINF:0 tvg-id="quangninh1" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Qu?ng Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Qu?ảg Ninh (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.248:10978
-#EXTINF:0 tvg-id="quangninh1" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Qu?ng Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.248:9462
-#EXTINF:0 tvg-id="quangninh3" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Qu?ng Ninh (HD 6.5Mbps)
+#EXTINF:0 tvg-id="quangninh3" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.249:10984
 #EXTINF:0 tvg-id="quangninh3" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Qu?ng Ninh (HD 6.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.249:9468
-#EXTINF:0 tvg-id="bacninh" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH B?c Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.245:10506
-#EXTINF:0 tvg-id="hanoi1" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà N?i (HD 4Mbps)
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.143:10738
-#EXTINF:0 tvg-id="hanoi2" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà N?i (HD 4Mbps)
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD _ TH Hà Nội (HD 4Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.137:10744
-#EXTINF:0 tvg-id="haiduong" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH H?i Duong (HD 8Mbps)
+#EXTINF:0 tvg-id="haiduong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Duong (HD 8Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.44:11788
-#EXTINF:0 tvg-id="haiphong" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. H?i Phòng (HD 6Mbps)
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD _ TH TP. Hải Phòng (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.142:10780
-#EXTINF:0 tvg-id="haiphongplus" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. H?i Phòng (HD 6Mbps)
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD _ TH TP. Hải Phòng (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.83:11554
-#EXTINF:0 tvg-id="hungyen" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD _ TH Hung Yên (HD 6Mbps)
+#EXTINF:0 tvg-id="hungyen" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD _ TH Hung Yên (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.110:10786
-#EXTINF:0 tvg-id="ninhbinh" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8Mbps)
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV HD _ TH Ninh Bình (HD 8Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.89:11518
-#EXTINF:0 tvg-id="thanhhoa" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa (HD 8.5Mbps)
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.198:11110
-#EXTINF:0 tvg-id="nghean" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Ngh? An (HD 7.5Mbps)
+#EXTINF:0 tvg-id="nghean" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.198:10972
-#EXTINF:0 tvg-id="hatinh" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tinh (HD 8.5Mbps)
+#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tinh (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.134:10768
-#EXTINF:0 tvg-id="quangtri" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Qu?ng Tr? (HD 7.5Mbps)
+#EXTINF:0 tvg-id="quangtri" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV HD _ TH Quảng Trị (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.46:11776
-#EXTINF:0 tvg-id="quangngai" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Qu?ng Ngãi (HD 6Mbps)
+#EXTINF:0 tvg-id="quangngai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quãng Ngãi (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.126:10798
-#EXTINF:0 tvg-id="kontum" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 7.5Mbps)
+#EXTINF:0 tvg-id="kontum" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.80:11572
-#EXTINF:0 tvg-id="daklak" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Ð?k L?k (HD 7.5Mbps)
+#EXTINF:0 tvg-id="daklak" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Ð?ă Lăk (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.99:11464
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Duong (HD 6Mbps)
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Duong (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.109:10750
-#EXTINF:0 tvg-id="anvienhd" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.199:11116
-#EXTINF:0 tvg-id="dongnai1" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ÐNRTV1 HD _ TH Ð?ng Nai (HD 6Mbps)
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ÐNRTV1 HD _ TH Ð?ng Nai (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.112:10762
-#EXTINF:0 tvg-id="tayninh" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.233:11320
-#EXTINF:0 tvg-id="vungtau" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà R?a Vung Tàu (HD 8Mbps)
+#EXTINF:0 tvg-id="vungtau" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD _ TH Bà Rịa Vung Tàu (HD 8Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.47:11770
-#EXTINF:0 tvg-id="tiengiang" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Ti?n Giang (HD 6Mbps)
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG HD _ TH Tiền Giang (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.204:11146
-#EXTINF:0 tvg-id="angiang" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8.5Mbps)
+#EXTINF:0 tvg-id="angiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2On2R0G.png",ATV HD _ TH An Giang (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.81:11566
-#EXTINF:0 tvg-id="bentre" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH B?n Tre (HD 8.5Mbps)
+#EXTINF:0 tvg-id="bentre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9UZtJvv.png",THBT HD _ TH B?n Tre (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.95:11482
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vinh Long (HD 7Mbps)
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vinh Long (HD 7Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.152:10882
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vinh Long (HD 8Mbps)
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vinh Long (HD 8Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.164:10888
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vinh Long (HD 7Mbps)
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vinh Long (HD 7Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.165:10900
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vinh Long (HD 7Mbps)
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vinh Long (HD 7Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.160:10912
-#EXTINF:0 tvg-id="kiengiang" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 6Mbps)
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.161:10918
-#EXTINF:0 tvg-id="soctrang" group-title="Ð?a Phuong (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trang (HD 8Mbps)
+#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 HD _ TH Sóc Trăng (HD 8Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.97:11470
 #------------------------Ð?a Phuong (SD)------------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
 http://192.168.1.1:4022/rtp/232.84.2.93:8718
 #EXTINF:0 tvg-id="yenbai" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV _ TH Yên Bái
 http://192.168.1.1:4022/rtp/232.84.2.75:9162
-#EXTINF:0 tvg-id="dienbien" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ÐTV _ TH Ði?n Biên
+#EXTINF:0 tvg-id="dienbien" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ÐTV _ TH Ðiện Biên
 http://192.168.1.1:4022/rtp/232.84.3.116:8880
 #EXTINF:0 tvg-id="hoabinh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV _ TH Hòa Bình
 http://192.168.1.1:4022/rtp/232.84.3.130:8946
@@ -411,41 +357,41 @@ http://192.168.1.1:4022/rtp/232.84.3.133:9174
 http://192.168.1.1:4022/rtp/232.84.1.184:9078
 #EXTINF:0 tvg-id="hagiang" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/h7uPIEP.png",HGTV _ TH Hà Giang
 http://192.168.1.1:4022/rtp/232.84.2.85:8910
-#EXTINF:0 tvg-id="caobang" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV _ TH Cao B?ng
+#EXTINF:0 tvg-id="caobang" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV _ TH Cao Bằng
 http://192.168.1.1:4022/rtp/232.84.2.109:8844
-#EXTINF:0 tvg-id="backan" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK _ TH B?c K?n
+#EXTINF:0 tvg-id="backan" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK _ TH Bắc Kạn
 http://192.168.1.1:4022/rtp/232.84.2.92:8760
-#EXTINF:0 tvg-id="langson" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV _ TH L?ng Son
+#EXTINF:0 tvg-id="langson" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV _ TH Lạng Son
 http://192.168.1.1:4022/rtp/232.84.2.107:8646
 #EXTINF:0 tvg-id="tuyenquang" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV _ TH Tuyên Quang
 http://192.168.1.1:4022/rtp/232.84.2.91:9138
 #EXTINF:0 tvg-id="thainguyen" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 _ TH Thái Nguyên
 http://192.168.1.1:4022/rtp/232.84.2.87:9096
-#EXTINF:0 tvg-id="phutho" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV _ TH Phú Th?
+#EXTINF:0 tvg-id="phutho" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV _ TH Phú Thọ
 http://192.168.1.1:4022/rtp/232.84.2.95:9030
 #EXTINF:0 tvg-id="bacgiang" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH B?c Giang
 http://192.168.1.1:4022/rtp/232.84.2.89:8754
-#EXTINF:0 tvg-id="quangninh1" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 _ TH Qu?ng Ninh
+#EXTINF:0 tvg-id="quangninh1" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 _ TH Qu?ảg Ninh
 http://192.168.1.1:4022/rtp/232.84.3.105:9060
 #EXTINF:0 tvg-id="bacninh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH B?c Ninh
 http://192.168.1.1:4022/rtp/232.84.1.133:8772
 #EXTINF:0 tvg-id="hanam" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/DCSPntI.png",THHN _ TH Hà Nam
 http://192.168.1.1:4022/rtp/232.84.2.82:8916
-#EXTINF:0 tvg-id="hanoi1" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 _ TH Hà N?i
+#EXTINF:0 tvg-id="hanoi1" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 _ TH Hà Nội
 http://192.168.1.1:4022/rtp/232.84.1.29:8148
-#EXTINF:0 tvg-id="hanoi2" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 _ TH Hà N?i
+#EXTINF:0 tvg-id="hanoi2" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 _ TH Hà Nội
 http://192.168.1.1:4022/rtp/232.84.1.23:8112
-#EXTINF:0 tvg-id="haiduong" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH H?i Duong
+#EXTINF:0 tvg-id="haiduong" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Duong
 http://192.168.1.1:4022/rtp/232.84.2.79:8928
-#EXTINF:0 tvg-id="haiduong" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH H?i Duong
+#EXTINF:0 tvg-id="haiduong" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/QmzXd4R.png",THD _ TH Hải Duong
 http://192.168.1.1:4022/rtp/232.84.3.113:8928
-#EXTINF:0 tvg-id="haiphong" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP _ TH TP. H?i Phòng
+#EXTINF:0 tvg-id="haiphong" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP _ TH TP. Hải Phòng
 http://192.168.1.1:4022/rtp/232.84.2.104:8934
-#EXTINF:0 tvg-id="haiphongplus" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. H?i Phòng
+#EXTINF:0 tvg-id="haiphongplus" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. Hải Phòng
 http://192.168.1.1:4022/rtp/232.84.3.82:11560
 #EXTINF:0 tvg-id="hungyen" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hung Yên
 http://192.168.1.1:4022/rtp/232.84.2.84:8952
-#EXTINF:0 tvg-id="namdinh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Ð?nh
+#EXTINF:0 tvg-id="namdinh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Nam Ðịnh
 http://192.168.1.1:4022/rtp/232.84.3.119:9006
 #EXTINF:0 tvg-id="ninhbinh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NTV _ TH Ninh Bình
 http://192.168.1.1:4022/rtp/232.84.2.80:9018
@@ -455,15 +401,15 @@ http://192.168.1.1:4022/rtp/232.84.2.100:9090
 http://192.168.1.1:4022/rtp/232.84.2.83:9156
 #EXTINF:0 tvg-id="thanhhoa" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
 http://192.168.1.1:4022/rtp/232.84.2.111:9102
-#EXTINF:0 tvg-id="nghean" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV _ TH Ngh? An
+#EXTINF:0 tvg-id="nghean" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV _ TH Nghệ An
 http://192.168.1.1:4022/rtp/232.84.2.101:9012
 #EXTINF:0 tvg-id="hatinh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV _ TH Hà Tinh
 http://192.168.1.1:4022/rtp/232.84.2.96:8922
-#EXTINF:0 tvg-id="quangbinh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Qu?ng Bình
+#EXTINF:0 tvg-id="quangbinh" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
 http://192.168.1.1:4022/rtp/232.84.2.98:9042
-#EXTINF:0 tvg-id="quangtri" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV _ TH Qu?ng Tr?
+#EXTINF:0 tvg-id="quangtri" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/yIHs2sI.png",QRTV _ TH Quảng Trị
 http://192.168.1.1:4022/rtp/232.84.2.105:9066
-#EXTINF:0 tvg-id="hue" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Th?a Thiên Hu?
+#EXTINF:0 tvg-id="hue" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
 http://192.168.1.1:4022/rtp/232.84.2.106:9120
 #EXTINF:0 tvg-id="danang1" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/6OWQ8lU.png",DaNangTV1 _ TH TP. Ðà N?ng
 http://192.168.1.1:4022/rtp/232.84.1.146:8850
