@@ -478,7 +478,7 @@ http://192.168.1.1:4022/rtp/232.84.2.112:8940
 http://192.168.1.1:4022/rtp/232.84.2.113:8964
 #EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trang
 http://192.168.1.1:4022/rtp/232.84.2.103:9072
-#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH B?c Liêu
+#EXTINF:0 tvg-id="baclieu" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV _ TH Bạc Liêu
 http://192.168.1.1:4022/rtp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau
 http://192.168.1.1:4022/rtp/232.84.2.117:8826
@@ -728,7 +728,7 @@ http://192.168.1.1:4022/rtp/232.84.1.238:10296
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 http://192.168.1.1:4022/rtp/232.84.1.4:7998
 #------------------------Mua S?m------------------------#
-#EXTINF:0 tvg-id="" group-title="Mua S?m" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
+#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 http://192.168.1.1:4022/rtp/232.84.1.142:10386
 #------------------------DRM------------------------#
 #EXTINF:0 tvg-id="" group-title="VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ (DRM)
