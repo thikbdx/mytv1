@@ -259,7 +259,7 @@ http://192.168.1.1:4022/rtp/232.84.1.22:8106
 http://192.168.1.1:4022/rtp/232.84.1.32:8166
 #------------------------Other------------------------#
 #------------------------Ð?a phuong (HD)------------------------#
-#EXTINF:0 tvg-id="yenbai" group-title="Địa Phương(HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 6Mbps)
+#EXTINF:0 tvg-id="yenbai" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV HD _ TH Yên Bái (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.253:11440
 #EXTINF:0 tvg-id="hoabinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV HD _ TH Hòa Bình (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.213:11200
@@ -446,7 +446,7 @@ http://192.168.1.1:4022/rtp/232.84.1.136:8790
 http://192.168.1.1:4022/rtp/232.84.1.137:8796
 #EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/blOZQPI.png",ÐNRTV1 _ TH Ðồng Nai
 http://192.168.1.1:4022/rtp/232.84.1.152:8886
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ÐNRTV2 _ TH Ð?ng Nai
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/tIvmaaX.png",ÐNRTV2 _ TH Ðồng Nai
 http://192.168.1.1:4022/rtp/232.84.1.153:8892
 #EXTINF:0 tvg-id="tayninh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
 http://192.168.1.1:4022/rtp/232.84.2.97:9084
@@ -454,7 +454,7 @@ http://192.168.1.1:4022/rtp/232.84.2.97:9084
 http://192.168.1.1:4022/rtp/232.84.2.73:8748
 #EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 http://192.168.1.1:4022/rtp/232.84.1.171:9000
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THÐT1 _ TH Ð?ng Tháp
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THÐT1 _ TH Ðồng Tháp
 http://192.168.1.1:4022/rtp/232.84.1.154:8898
 #EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG _ TH Tiền Giang
 http://192.168.1.1:4022/rtp/232.84.1.189:9108
@@ -783,7 +783,7 @@ http://192.168.1.1:4022/rtp/232.84.3.111:10666
 http://192.168.1.1:4022/rtp/232.84.3.49:11758
 #EXTINF:0 tvg-id="" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
 http://192.168.1.1:4022/rtp/232.84.1.11:8040
-#EXTINF:0 tvg-id="" group-title="Qu?c T? (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
+#EXTINF:0 tvg-id="" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
 http://192.168.1.1:4022/rtp/232.84.2.142:10672
 #EXTINF:0 tvg-id="" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (DRM)
 http://192.168.1.1:4022/rtp/232.84.3.129:10672
