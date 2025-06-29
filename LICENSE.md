@@ -366,11 +366,11 @@ http://192.168.1.1:4022/rtp/232.84.2.107:8646
 http://192.168.1.1:4022/rtp/232.84.2.91:9138
 #EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/UBcqMiY.png",TN1 _ TH Thái Nguyên
 http://192.168.1.1:4022/rtp/232.84.2.87:9096
-#EXTINF:0 tvg-id="phutho" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV _ TH Phú Thọ
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV _ TH Phú Thọ
 http://192.168.1.1:4022/rtp/232.84.2.95:9030
 #EXTINF:0 tvg-id="bacgiang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV _ TH Bắc Giang
 http://192.168.1.1:4022/rtp/232.84.2.89:8754
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 _ TH Qu?ảg Ninh
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 _ TH Quãng Ninh
 http://192.168.1.1:4022/rtp/232.84.3.105:9060
 #EXTINF:0 tvg-id="bacninh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh
 http://192.168.1.1:4022/rtp/232.84.1.133:8772
@@ -386,7 +386,7 @@ http://192.168.1.1:4022/rtp/232.84.2.79:8928
 http://192.168.1.1:4022/rtp/232.84.3.113:8928
 #EXTINF:0 tvg-id="haiphong" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP _ TH TP. Hải Phòng
 http://192.168.1.1:4022/rtp/232.84.2.104:8934
-#EXTINF:0 tvg-id="haiphongplus" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. Hải Phòng
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ _ TH TP. Hải Phòng
 http://192.168.1.1:4022/rtp/232.84.3.82:11560
 #EXTINF:0 tvg-id="hungyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY _ TH Hung Yên
 http://192.168.1.1:4022/rtp/232.84.2.84:8952
@@ -396,7 +396,7 @@ http://192.168.1.1:4022/rtp/232.84.3.119:9006
 http://192.168.1.1:4022/rtp/232.84.2.80:9018
 #EXTINF:0 tvg-id="thaibinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV _ TH Thái Bình
 http://192.168.1.1:4022/rtp/232.84.2.100:9090
-#EXTINF:0 tvg-id="vinhphuc" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP _ TH Vinh Phúc
+#EXTINF:0 tvg-id="vinhphuc" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/rrxDn5n.png",VP _ TH Vinh Phúc
 http://192.168.1.1:4022/rtp/232.84.2.83:9156
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa
 http://192.168.1.1:4022/rtp/232.84.2.111:9102
@@ -416,7 +416,7 @@ http://192.168.1.1:4022/rtp/232.84.1.146:8850
 http://192.168.1.1:4022/rtp/232.84.3.122:8856
 #EXTINF:0 tvg-id="quangnam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT _ TH Quảng Nam
 http://192.168.1.1:4022/rtp/232.84.2.81:9048
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Qu?ng Ngãi
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/McmKwa8.png",PTQ _ TH Quãng Ngãi
 http://192.168.1.1:4022/rtp/232.84.2.108:9054
 #EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Ðịnh
 http://192.168.1.1:4022/rtp/232.84.2.88:8784
@@ -438,7 +438,7 @@ http://192.168.1.1:4022/rtp/232.84.1.149:8868
 http://192.168.1.1:4022/rtp/232.84.3.140:8874
 #EXTINF:0 tvg-id="lamdong" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV _ TH Lâm Ð?ng
 http://192.168.1.1:4022/rtp/232.84.2.78:8976
-#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 _ TH Bình Phu?c
+#EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/DHWoGfP.png",BPTV1 _ TH Bình Phước
 http://192.168.1.1:4022/rtp/232.84.2.90:8814
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 _ TH Bình Duong
 http://192.168.1.1:4022/rtp/232.84.1.136:8790
@@ -450,7 +450,7 @@ http://192.168.1.1:4022/rtp/232.84.1.152:8886
 http://192.168.1.1:4022/rtp/232.84.1.153:8892
 #EXTINF:0 tvg-id="tayninh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
 http://192.168.1.1:4022/rtp/232.84.2.97:9084
-#EXTINF:0 tvg-id="vungtau" group-title="Ð?a Phuong (SD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT _ TH Bà R?a Vung Tàu
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT _ TH Bà Rịa Vung Tàu
 http://192.168.1.1:4022/rtp/232.84.2.73:8748
 #EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
 http://192.168.1.1:4022/rtp/232.84.1.171:9000
@@ -482,7 +482,7 @@ http://192.168.1.1:4022/rtp/232.84.2.103:9072
 http://192.168.1.1:4022/rtp/232.84.2.116:8766
 #EXTINF:0 tvg-id="camau" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV _ TH Cà Mau
 http://192.168.1.1:4022/rtp/232.84.2.117:8826
-#EXTINF:0 tvg-id="cantho" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. C?n Tho
+#EXTINF:0 tvg-id="cantho" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT _ TH TP. Cần Tho
 http://192.168.1.1:4022/rtp/232.84.2.118:8838
 #------------------------Qu?c T? (HD)------------------------#
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 6.5Mbps)
@@ -493,7 +493,7 @@ http://192.168.1.1:4022/rtp/232.84.3.61:11686
 http://192.168.1.1:4022/rtp/232.84.1.18:8082
 #EXTINF:0 tvg-id="afnhd" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 6.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.129:9570
-#EXTINF:0 tvg-id="axnhd" group-title="Quốc tế(HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.140:10660
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.121:10660
@@ -579,7 +579,7 @@ http://192.168.1.1:4022/rtp/232.84.2.51:10516
 http://192.168.1.1:4022/rtp/232.84.3.114:10516
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.63:11674
-#------------------------Qu?c T? (SD)------------------------#
+#------------------------Quốc Tế (SD)------------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
 http://192.168.1.1:4022/rtp/232.84.2.244:10482
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
@@ -626,7 +626,7 @@ http://192.168.1.1:4022/rtp/232.84.3.79:11578
 http://192.168.1.1:4022/rtp/232.84.3.182:11014
 #EXTINF:0 tvg-id="" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/SAQgczi.png",CCTV15
 http://192.168.1.1:4022/rtp/232.84.3.181:11008
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="Qu?c T? (SD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 http://192.168.1.1:4022/rtp/232.84.1.44:8244
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 http://192.168.1.1:4022/rtp/232.84.1.20:8094
@@ -656,7 +656,7 @@ http://192.168.1.1:4022/rtp/232.84.3.145:9606
 http://192.168.1.1:4022/rtp/232.84.3.207:11164
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://192.168.1.1:4022/rtp/232.84.1.19:8088
-#EXTINF:0 tvg-id="" group-title="Qu?c T? (SD)" tvg-logo="https://i.imgur.com/SCVOw77.png",Hunan
+#EXTINF:0 tvg-id="" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/SCVOw77.png",Hunan
 http://192.168.1.1:4022/rtp/232.84.3.188:11050
 #EXTINF:0 tvg-id="" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/2Edbny9.png",Jiangsu
 http://192.168.1.1:4022/rtp/232.84.3.187:11044
@@ -697,7 +697,7 @@ http://192.168.1.1:4022/rtp/232.84.1.91:10404
 #EXTINF:0 tvg-id="" group-title="Quốc tế (SD)" tvg-logo="https://i.imgur.com/V0l9O6g.png",Xing Kong International
 http://192.168.1.1:4022/rtp/232.84.3.189:11056
 #------------------------MyTV------------------------#
-#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Feed Qu?c H?i
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Feed Quốc Hội
 http://192.168.1.1:4022/rtp/232.84.3.1:10278
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 801
 http://192.168.1.1:4022/rtp/232.84.2.175:10858
@@ -777,7 +777,7 @@ http://192.168.1.1:4022/rtp/232.84.1.98:8562
 http://192.168.1.1:4022/rtp/232.84.1.131:10368
 #EXTINF:0 tvg-id="" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
 http://192.168.1.1:4022/rtp/232.84.2.141:10666
-#EXTINF:0 tvg-id="" group-title="Quốc tế(HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
+#EXTINF:0 tvg-id="" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
 http://192.168.1.1:4022/rtp/232.84.3.111:10666
 #EXTINF:0 tvg-id="" group-title="Quốc tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (DRM)
 http://192.168.1.1:4022/rtp/232.84.3.49:11758
