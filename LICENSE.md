@@ -275,13 +275,13 @@ http://192.168.1.1:4022/rtp/232.84.3.202:11134
 http://192.168.1.1:4022/rtp/232.84.3.94:11488
 #EXTINF:0 tvg-id="langson" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD _ TH Lạng Son (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.203:11140
-#EXTINF:0 tvg-id="quangninh1" group-title="Ðịa Phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.248:10978
-#EXTINF:0 tvg-id="quangninh1" group-title="Ðịa Phuong (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD _ TH Quảng Ninh (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.248:9462
-#EXTINF:0 tvg-id="quangninh3" group-title="Ðịa Phuong (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.249:10984
-#EXTINF:0 tvg-id="quangninh3" group-title="Ðịa Phuong (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Qu?ng Ninh (HD 6.5Mbps)
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD _ TH Quảng Ninh (HD 6.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.249:9468
 #EXTINF:0 tvg-id="bacninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUFSFCV.png",BTV _ TH Bắc Ninh (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.245:10506
@@ -301,7 +301,7 @@ http://192.168.1.1:4022/rtp/232.84.3.110:10786
 http://192.168.1.1:4022/rtp/232.84.3.89:11518
 #EXTINF:0 tvg-id="thanhhoa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV _ TH Thanh Hóa (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.198:11110
-#EXTINF:0 tvg-id="nghean" group-title="Ðịa Phuong (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 7.5Mbps)
+#EXTINF:0 tvg-id="nghean" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD _ TH Nghệ An (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.198:10972
 #EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R4uthe7.png",HTTV HD _ TH Hà Tinh (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.134:10768
@@ -311,7 +311,7 @@ http://192.168.1.1:4022/rtp/232.84.3.46:11776
 http://192.168.1.1:4022/rtp/232.84.3.126:10798
 #EXTINF:0 tvg-id="kontum" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.80:11572
-#EXTINF:0 tvg-id="daklak" group-title="Ðịa Phuong (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Ð?ă Lăk (HD 7.5Mbps)
+#EXTINF:0 tvg-id="daklak" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD _ TH Ðăk Lăk (HD 7.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.99:11464
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD _ TH Bình Duong (HD 6Mbps)
 http://192.168.1.1:4022/rtp/232.84.3.109:10750
