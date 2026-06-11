@@ -12,6 +12,8 @@ http://192.168.1.1:4022/rtp/232.84.2.32:10600
 http://192.168.1.1:4022/rtp/232.84.3.106:10600
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.2.33:10606
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
+http://192.168.1.1:4022/rtp/232.84.3.18:11944
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
 http://192.168.1.1:4022/rtp/232.84.1.119:10266
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
